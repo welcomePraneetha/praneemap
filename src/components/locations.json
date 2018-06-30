@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Jama Masjid",
+    "type": "Worship",
+    "latitude": 28.6507,
+    "longitude": 77.2334
+  },
+  {
+    "name": "Lotus Temple",
+    "type": "Temple",
+    "latitude": 28.5535,
+    "longitude": 77.2588
+  },
+  {
+    "name": "Red Fort",
+    "type": "Museum",
+    "latitude": 28.6562,
+    "longitude": 77.2410
+  },
+  {
+    "name": "Qutb Minar",
+    "type": "Tower",
+    "latitude": 28.5244,
+    "longitude": 77.1855
+  },
+  {
+    "name": "India Gate",
+    "type": "Gate",
+    "latitude": 28.6129,
+    "longitude": 77.2295
+  },
+  {
+    "name": "Indira Gandhi International Airport",
+    "type": "Airport",
+    "latitude": 28.5562,
+    "longitude": 77.1000
+  }
+]
